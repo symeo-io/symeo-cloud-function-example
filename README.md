@@ -1,4 +1,4 @@
-# API
+# symeo-cloud-function-example
 
 ## :construction: Installation
 
